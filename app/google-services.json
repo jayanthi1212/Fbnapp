@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "580778289876",
+    "firebase_url": "https://fbnapp-dc014.firebaseio.com",
+    "project_id": "fbnapp-dc014",
+    "storage_bucket": "fbnapp-dc014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580778289876:android:6239712860bc28a0",
+        "android_client_info": {
+          "package_name": "com.ench.jaya.fbnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580778289876-ha3p0ar1gcnkshnlu95bmuobureem5je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPXfc2k4Af0xm8Rzr6eEdhWWVd9oyPIw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
